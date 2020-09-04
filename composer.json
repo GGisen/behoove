@@ -1,0 +1,14 @@
+{
+    "name": "ggisen/behoove",
+    "description": "Personal project needs",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "GGisen",
+            "email": "1623498501@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
